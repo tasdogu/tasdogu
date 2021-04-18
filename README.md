@@ -1,6 +1,6 @@
 ## Hello your computer has virus
 
-I am a C/C++ programmer in Turkey. I really love low level stuff like microcontrollers and OS development.
+Hi! I am a C/C++ programmer in Turkey. I really love low level stuff like microcontrollers and OS development.
 I am still learning but i can still do some cool stuff with it, I'm hoping.
 
 I support FSF and open source from my heart and all of my projects that i care about will be under GPL v3 while stuff that i don't care will be under MIT licanse.
