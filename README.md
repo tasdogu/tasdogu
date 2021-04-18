@@ -1,7 +1,9 @@
 ## Hello your computer has virus
 
 Hi! I am a C/C++ programmer in Turkey. I really love low level stuff like microcontrollers and OS development.
-I am still learning but i can still do some cool stuff with it, I'm hoping.
+I started coding with C++, which i **do not** recommend, about 5 years ago.
+I looked at some other languages for about a year. Then i discovered C which I fell in love with. 
+I am coding in a lot of languages right now. I code C/C++ and Python seriouly while i code in others for fun. I can confidently say i am good at C/C++ and Python. I think can do some cool stuff with them.
 
 I support FSF and open source from my heart and all of my projects that i care about will be under GPL v3 while stuff that i don't care will be under MIT licanse.
 
